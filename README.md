@@ -47,8 +47,10 @@ finish first version of PCB design
 fix some PCB design issues and make second version of PCB
 We didn't have connectors to turbidity and temperature sensors on PCB
 ![image](https://github.com/user-attachments/assets/c4220ea7-48e2-4a3d-bc34-c945c11c1afb)
+
 add battery connector
 ![image](https://github.com/user-attachments/assets/a36caceb-927e-41bf-b8b8-8a8d60bd20a6)
+
 fix some issue with ESP32 chip
 ![image](https://github.com/user-attachments/assets/2fc04a3d-2c4a-4fd5-ac5a-e4c4ef8cb01c)
 
