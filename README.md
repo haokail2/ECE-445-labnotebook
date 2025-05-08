@@ -81,6 +81,8 @@ fix some issue with ESP32 chip
 
 contiune on build and testing sensors
 
+Our second version of PCB still have some issues with ESP32 chip, we decidede to switch to ESP32 dev board and solder it on the PCB.
+
 plot for tempterature sensor
 
 ![image](https://github.com/user-attachments/assets/4164f4fb-572a-4965-83d7-e04ee8ea56cf)
