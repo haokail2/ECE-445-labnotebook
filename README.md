@@ -68,8 +68,14 @@ plot for tempterature sensor
 
 ![image](https://github.com/user-attachments/assets/4164f4fb-572a-4965-83d7-e04ee8ea56cf)
 
+Equation we used for converting analog output to pH value
+
+![image](https://github.com/user-attachments/assets/24e4a08b-54ee-41c6-920a-7c3db922e1fc)
+
+
 2025-04-27
 finilizing our project
+We only have temperature and turbidity sensors working correctly. There were some PCB design issues that make other sensors can't get correct readings.
 
 ![image](https://github.com/user-attachments/assets/d2a0607e-3336-4ad2-91ea-3f67232c2234)
 
