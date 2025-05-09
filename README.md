@@ -2,7 +2,6 @@
 Haokai Liu
 
 # 2025-02-05 - team meeting to working on get project approved
-
 this is our inital thought about our water monitoring system
 
 ![image](https://github.com/user-attachments/assets/a8e27b36-c21b-4234-ad73-2b08b17fbee0)
@@ -31,18 +30,13 @@ working on schemetic for different sensors, I was working some of the sensors
 
 ![image](https://github.com/user-attachments/assets/7c56405f-d984-48dd-9e5b-3ced0f346143)
 
-
-
 # 2025-03-02 - team meeting for design document and continue on PCB design
 
 # 2025-03-04 - TA meeting
 
 we updated our progress on the project to TA. He remainded us about the breadboard demo next week.
 
-
-# 2025-03-06
-
-team meeting for finishing design document
+# 2025-03-06 - team meeting for finishing design document
 
 We were trying to figure out what components we are going to use and where to get them
 
