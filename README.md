@@ -1,7 +1,7 @@
 # ECE-445-labnotebook
 Haokai Liu
 
-2025-02-05 - team meeting to working on get project approved
+# 2025-02-05 - team meeting to working on get project approved
 
 this is our inital thought about our water monitoring system
 
