@@ -91,12 +91,15 @@ Equation we used for converting analog output to pH value
 
 ![image](https://github.com/user-attachments/assets/24e4a08b-54ee-41c6-920a-7c3db922e1fc)
 
+2025-04-26
+
+soldering our PCB
 
 2025-04-27
 
-finilizing our project
+continue solder our PCB and finilizing our project
 
 We only have temperature and turbidity sensors working correctly. There were some PCB design issues that make other sensors can't get correct readings.
 
-![image](https://github.com/user-attachments/assets/d2a0607e-3336-4ad2-91ea-3f67232c2234)
+![image](https://github.com/user-attachments/assets/43e4ef67-32f7-4513-9e42-e9cf256ce706)
 
