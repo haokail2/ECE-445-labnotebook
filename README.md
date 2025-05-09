@@ -34,8 +34,7 @@ we updated our progress on the project to TA. He remainded us about the breadboa
 # 2025-03-06 - team meeting for finishing design document
 We were trying to figure out what components we are going to use and where to get them
 
-# 2025-03-10
-test temperature senor on breadboard
+# 2025-03-1 - test temperature senor on breadboard
 
 We finished the temperature sensor on the breadborad first, it worked successfully. Harry wrote the code for the dev board. Me and Jackie work on wiring and other stuff. We also tested the sensor in different temperature, it worked well.
 
@@ -79,7 +78,7 @@ Equation we used for converting analog output to pH value
 # 2025-04-26 - soldering our PCB
 Jackie did soldering today and it mostly done.
 
-# 2025-04-27 - continue solder our PCB and finilizing our project
+# 2025-04-27 - continue on soldering our PCB and finilizing our project
 I help Jackie finilizing our soldering. Harry worked on coding with ESP32. We only have temperature and turbidity sensors working correctly. There were some PCB design issues that make other sensors can't get correct readings.
 
 ![image](https://github.com/user-attachments/assets/43e4ef67-32f7-4513-9e42-e9cf256ce706)
