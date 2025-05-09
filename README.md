@@ -7,17 +7,17 @@ this is our inital thought about our water monitoring system
 
 ![image](https://github.com/user-attachments/assets/a8e27b36-c21b-4234-ad73-2b08b17fbee0)
 
-2025-02-12 - team meeting for working on project proposal and team contract
+# 2025-02-12 - team meeting for working on project proposal and team contract
 
 our design of block diagram
 
 ![image](https://github.com/user-attachments/assets/08d622d2-8fe9-49f4-8b9d-4169b803c424)
 
-2025-02-11 - first TA meeting
+# 2025-02-11 - first TA meeting
 
 we updated our progress on project proposal to TA
 
-2025-02-23 - team meeting for proposal revision and start on PCB design
+# 2025-02-23 - team meeting for proposal revision and start on PCB design
 
 working on schemetic for different sensors, I was working some of the sensors
 
@@ -33,20 +33,20 @@ working on schemetic for different sensors, I was working some of the sensors
 
 
 
-2025-03-02 - team meeting for design document and continue on PCB design
+# 2025-03-02 - team meeting for design document and continue on PCB design
 
-2025-03-04 - TA meeting
+# 2025-03-04 - TA meeting
 
 we updated our progress on the project to TA. He remainded us about the breadboard demo next week.
 
 
-2025-03-06
+# 2025-03-06
 
 team meeting for finishing design document
 
 We were trying to figure out what components we are going to use and where to get them
 
-2025-03-10
+# 2025-03-10
 
 test temperature senor on breadboard
 
@@ -54,21 +54,21 @@ We finished the temperature sensor on the breadborad first, it worked successful
 
 ![image](https://github.com/user-attachments/assets/afb87c46-0bf8-4424-b1e5-64bb3b9b951f)
 
-2025-03-11 - TA meeting
+# 2025-03-11 - TA meeting
 
 During today's meeting, we did breadboard demo to prof and TA. We were missing many components and need to place more orders.
 
-2025-03-13 - finish first version of PCB design
+# 2025-03-13 - finish first version of PCB design
 
-2025-04-08 - TA meeting
+# 2025-04-08 - TA meeting
 
 We updated our prgress to TA and made more orders for the components we needed.
 
-2025-04-16 - TA meeting
+# 2025-04-16 - TA meeting
 
 We updated our progress to TA and he gave us some help on checking our design.
 
-2025-04-16 - fix some PCB design issues and make second version of PCB
+# 2025-04-16 - fix some PCB design issues and make second version of PCB
 
 We didn't have connectors to turbidity and temperature sensors on PCB
 
@@ -83,7 +83,7 @@ fix some issue with ESP32 chip
 ![image](https://github.com/user-attachments/assets/2fc04a3d-2c4a-4fd5-ac5a-e4c4ef8cb01c)
 
 
-2025-04-21 - contiune on build and testing sensors
+# 2025-04-21 - contiune on build and testing sensors
 
 Our second version of PCB still have some issues with ESP32 chip, we decidede to switch to ESP32 dev board and solder it on the PCB.
 
@@ -95,15 +95,15 @@ Equation we used for converting analog output to pH value
 
 ![image](https://github.com/user-attachments/assets/24e4a08b-54ee-41c6-920a-7c3db922e1fc)
 
-2025-04-26 - soldering our PCB
+# 2025-04-26 - soldering our PCB
 
 Jackie did soldering today and it mostly done.
 
-2025-04-27 - continue solder our PCB and finilizing our project
+# 2025-04-27 - continue solder our PCB and finilizing our project
 
 I help Jackie finilizing our soldering. Harry worked on coding with ESP32. We only have temperature and turbidity sensors working correctly. There were some PCB design issues that make other sensors can't get correct readings.
 
 ![image](https://github.com/user-attachments/assets/43e4ef67-32f7-4513-9e42-e9cf256ce706)
 
-2025-04-28 - final demo
+# 2025-04-28 - final demo
 
